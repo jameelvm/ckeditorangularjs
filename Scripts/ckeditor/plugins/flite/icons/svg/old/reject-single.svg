@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>color_4_v2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="color_4_v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-Copy-6" transform="translate(2.400000, 3.400000)" fill="#C2C2C2" stroke="#C2C2C2" stroke-width="0.4">
+            <rect id="Rectangle" x="0" y="0" width="13" height="1"></rect>
+            <rect id="Rectangle-Copy-8" x="0" y="12" width="19.2" height="1"></rect>
+            <rect id="Rectangle-Copy-9" x="0" y="16" width="19.2" height="1"></rect>
+            <rect id="Rectangle-Copy-6" x="0" y="4" width="19.2" height="1"></rect>
+            <rect id="Rectangle-Copy-7" x="0" y="8" width="7" height="1"></rect>
+        </g>
+        <path d="M16.8,16.0615385 L20.8615385,12 L21.6,12.7384615 L17.5384615,16.8 L21.6,20.8615385 L20.8615385,21.6 L16.8,17.5384615 L12.7384615,21.6 L12,20.8615385 L16.0615385,16.8 L12,12.7384615 L12.7384615,12 L16.8,16.0615385 Z" id="Rectangle-Copy-14" stroke="#FF0000" stroke-width="0.6" fill="#FF0000"></path>
+    </g>
+</svg>
